@@ -1,0 +1,31 @@
+body {background-color: lightskyblue;}
+.main
+{
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+.form
+{
+    margin:5px auto;
+    line-height: 10px;
+    text-align:center; 
+    vertical-align:middle;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color:white;
+  }
+  
+
+  #navbar a {
+    float: right;
+    display: block;
+    color:darkblue;
+    text-align: right;
+    padding: 14px;
+    text-decoration: none;
+  }
